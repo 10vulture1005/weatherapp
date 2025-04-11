@@ -19,9 +19,6 @@ Get real-time weather updates for any city in the world.
 - **API:** [OpenWeather API](https://openweathermap.org/api)
 - **Hosting:** Vercel
 
-## 📸 Preview
-
-![Weather App Screenshot](https://your-screenshot-url-if-any.png)
 
 ## ⚙️ How to Run Locally
 
@@ -29,3 +26,6 @@ Get real-time weather updates for any city in the world.
    ```bash
    git clone https://github.com/your-username/weather-app.git
    cd weather-app
+   npm install
+   npm start
+
